@@ -10,7 +10,7 @@ Estou cursando Analise e Desenvolvimento de Sistemas
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS :)
+Javascript, HTML, CSS :hugs:
 
 
 ## 📫 Como entrar em contato comigo...
