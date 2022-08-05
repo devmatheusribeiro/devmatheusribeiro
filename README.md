@@ -6,6 +6,7 @@ Eu sou uma pessoa desenvolvedora front-end...
 Estou cursando Analise e Desenvolvimento de Sistemas
 
 - Atualmente estudo Desenvolvimento WEB com ES6, TypeScript e Angular
+-  Atualmente sou estagiário na SHX 🔭
 
 
 
