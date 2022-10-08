@@ -11,7 +11,7 @@ Estou cursando Analise e Desenvolvimento de Sistemas
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS :hugs:
+Javascript, HTML, CSS, TypeScript e Angular :hugs:
 
 
 ## 📫 Como entrar em contato comigo...
