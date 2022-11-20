@@ -3,9 +3,8 @@
 
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora front-end...
-Estou cursando Analise e Desenvolvimento de Sistemas
 
-- Meus estudos são focados em desenvolvimento WEB com ES6, TypeScript e Angular
+- Meus estudos são focados em desenvolvimento WEB com ES6, TypeScript, Angular e React
 - Atualmente sou estagiário na SHX 🔭
 
 
