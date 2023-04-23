@@ -4,8 +4,9 @@
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora front-end...
 
-- Meus estudos são focados em desenvolvimento WEB com ES6, TypeScript, Angular e React
-- Atualmente sou estagiário na SHX 🔭
+- Meus estudos Front-end são focados em desenvolvimento WEB com ES6, TypeScript, Angular e React.
+- Meus estudos Back-end são focados em Java, Springboot e Postgresql
+- Atualmente sou desenvolvedor Web Trainee na SHX 🔭
 
 
 
