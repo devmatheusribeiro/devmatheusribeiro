@@ -7,9 +7,6 @@
 
 🔧 Estou constantemente em busca de desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades. Atualmente, estou em processo de aprendizado em React, um dos principais frameworks de front-end, para melhorar ainda mais minhas habilidades na construção de interfaces de usuário interativas e modernas.
 
-📎 Para conferir meu trabalho e projetos, visite meu perfil no GitHub: https://github.com/devmatheusribeiro
-
-
 📫 Como entrar em contato comigo...
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribeiro-matheus/)
