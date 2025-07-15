@@ -62,7 +62,7 @@ Atualmente atuo como desenvolvedor full stack em um sistema de **BI para o setor
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmatheusribeiro/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribeiro-matheus/)  
 📬 **connect.matheusribeiro@gmail.com**
 
 ---
