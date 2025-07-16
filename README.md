@@ -20,15 +20,14 @@
 
 **DevOps & Testes**  
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)  
-🧪 Testes unitários completos no frontend e backend  
-📦 CI/CD, versionamento semântico e automação
+🧪 Testes unitários completos no frontend e backend
 
 ---
 
 ## 🧩 Projetos em Destaque
 
 ### 🔹 [ZardUI](https://github.com/zard-ui)
-> Biblioteca de componentes Angular inspirada no design system [shadcn/ui](https://ui.shadcn.dev)
+> Biblioteca de componentes Angular inspirada no design system [shadcn/ui](https://ui.shadcn.com)
 
 Contribuidor ativo da iniciativa open source brasileira que replica a elegância e acessibilidade dos componentes do shadcn no ecossistema Angular:
 
