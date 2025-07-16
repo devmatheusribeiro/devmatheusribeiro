@@ -26,7 +26,7 @@
 
 ## 🧩 Projetos em Destaque
 
-### 🔹 [ZardUI](https://github.com/zard-ui)
+### 🔹 [ZardUI](https://www.zardui.com/)
 > Biblioteca de componentes Angular inspirada no design system [shadcn/ui](https://ui.shadcn.com)
 
 Contribuidor ativo da iniciativa open source brasileira que replica a elegância e acessibilidade dos componentes do shadcn no ecossistema Angular:
