@@ -52,7 +52,7 @@ Atualmente atuo como desenvolvedor full stack em um sistema de **BI para o setor
 
 ## 🚀 Sobre Mim
 
-🔁 Gosto de componentização, princípios SOLID e padrões de projeto
+🔁 Gosto de componentização, princípios SOLID e padrões de projeto  
 🎯 Acredito que testes são tão importantes quanto código funcional  
 🌐 Entusiasta de tecnologias web, interfaces reativas e acessíveis  
 💬 Sempre aberto a colaboração open source e novas ideias
