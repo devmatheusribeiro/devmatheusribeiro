@@ -10,7 +10,7 @@
 
 **Frontend**  
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io)  
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev)  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 **Backend**  
@@ -52,7 +52,7 @@ Atualmente atuo como desenvolvedor full stack em um sistema de **BI para o setor
 
 ## 🚀 Sobre Mim
 
-🔁 Fã de arquitetura limpa, componentização e princípios **SOLID**  
+🔁 Gosto de componentização, princípios SOLID e padrões de projeto
 🎯 Acredito que testes são tão importantes quanto código funcional  
 🌐 Entusiasta de tecnologias web, interfaces reativas e acessíveis  
 💬 Sempre aberto a colaboração open source e novas ideias
